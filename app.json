@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "lolipopzmobileproject",
+    "slug": "lolipopzmobileproject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "lolipopzmobileproject"
+}
